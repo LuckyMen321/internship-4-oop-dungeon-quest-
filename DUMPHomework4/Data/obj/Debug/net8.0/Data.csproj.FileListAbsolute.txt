@@ -1,0 +1,12 @@
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\bin\Debug\net8.0\Data.dll
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\obj\Debug\net8.0\Data.dll
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework4\Data\obj\Debug\net8.0\ref\Data.dll
