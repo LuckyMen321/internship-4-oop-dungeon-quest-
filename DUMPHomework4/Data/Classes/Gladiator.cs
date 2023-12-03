@@ -6,7 +6,7 @@
         {
             Name = "Gladiator";
             HealthPoints = 100;
-            Experience = 50;
+            Experience = 0;
             Damage = 225;
         }
         public override void RegenerateMana()

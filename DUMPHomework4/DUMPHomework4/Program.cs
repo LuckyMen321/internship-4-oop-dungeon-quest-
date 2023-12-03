@@ -127,6 +127,7 @@ void generateEnemies()
 }
 void playRound()
 {
+    increaseStatsByXP();
     hero.HealthPoints += (int)(healthPointsCap * 0.25);
     if (heroType == 2)
     {
